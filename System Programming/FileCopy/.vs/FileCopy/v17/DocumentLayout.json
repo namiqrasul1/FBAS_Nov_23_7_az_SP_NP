@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\filecopy\\filecopy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|solutionrelative:filecopy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\filecopy\\filecopy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|solutionrelative:filecopy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\filecopy\\filecopy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2756AE5-C404-4D7C-AF03-F5A1E069CDF1}|FileCopy\\FileCopy.csproj|solutionrelative:filecopy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FileCopy\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.Designer.cs",
+              "RelativeToolTip": "FileCopy\\Form1.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwHsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:31:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.cs",
+              "RelativeDocumentMoniker": "FileCopy\\Form1.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.cs",
+              "RelativeToolTip": "FileCopy\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:18:35.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.cs",
+              "RelativeDocumentMoniker": "FileCopy\\Form1.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\FileCopy\\FileCopy\\Form1.cs [Design]",
+              "RelativeToolTip": "FileCopy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:15:05.784Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
