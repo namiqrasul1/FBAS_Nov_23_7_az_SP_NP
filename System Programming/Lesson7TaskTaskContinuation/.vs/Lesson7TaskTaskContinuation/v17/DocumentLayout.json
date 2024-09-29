@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson7TaskTaskContinuation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA645E47-0C6B-4093-B4F8-C4AC248E0648}|Lesson7TaskTaskContinuation\\Lesson7TaskTaskContinuation.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_sp_np\\system programming\\lesson7tasktaskcontinuation\\lesson7tasktaskcontinuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA645E47-0C6B-4093-B4F8-C4AC248E0648}|Lesson7TaskTaskContinuation\\Lesson7TaskTaskContinuation.csproj|solutionrelative:lesson7tasktaskcontinuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson7TaskTaskContinuation\\Lesson7TaskTaskContinuation\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7TaskTaskContinuation\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_SP_NP\\System Programming\\Lesson7TaskTaskContinuation\\Lesson7TaskTaskContinuation\\Program.cs",
+              "RelativeToolTip": "Lesson7TaskTaskContinuation\\Program.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAowNYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:54:12.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
