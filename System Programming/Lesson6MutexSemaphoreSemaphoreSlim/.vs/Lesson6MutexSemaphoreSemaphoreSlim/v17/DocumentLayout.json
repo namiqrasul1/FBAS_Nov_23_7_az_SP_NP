@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAA5EFBF-93F8-4742-8C8F-138FBE0EE5B4}|ForFarhadLibrary\\ForFarhadLibrary.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson6mutexsemaphoresemaphoreslim\\forfarhadlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAA5EFBF-93F8-4742-8C8F-138FBE0EE5B4}|ForFarhadLibrary\\ForFarhadLibrary.csproj|solutionrelative:forfarhadlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CD2067B-63E5-448C-955C-0FA39C4575FE}|Lesson6MutexSemaphoreSemaphoreSlim\\Lesson6MutexSemaphoreSemaphoreSlim.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson6mutexsemaphoresemaphoreslim\\lesson6mutexsemaphoresemaphoreslim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CD2067B-63E5-448C-955C-0FA39C4575FE}|Lesson6MutexSemaphoreSemaphoreSlim\\Lesson6MutexSemaphoreSemaphoreSlim.csproj|solutionrelative:lesson6mutexsemaphoresemaphoreslim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAA5EFBF-93F8-4742-8C8F-138FBE0EE5B4}|ForFarhadLibrary\\ForFarhadLibrary.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson6mutexsemaphoresemaphoreslim\\forfarhadlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAA5EFBF-93F8-4742-8C8F-138FBE0EE5B4}|ForFarhadLibrary\\ForFarhadLibrary.csproj|solutionrelative:forfarhadlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\ForFarhadLibrary\\Product.cs",
-              "RelativeDocumentMoniker": "ForFarhadLibrary\\Product.cs",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\ForFarhadLibrary\\Product.cs",
-              "RelativeToolTip": "ForFarhadLibrary\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T13:39:54.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\ForFarhadLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "ForFarhadLibrary\\Class1.cs",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\ForFarhadLibrary\\Class1.cs",
-              "RelativeToolTip": "ForFarhadLibrary\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T13:39:40.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\Lesson6MutexSemaphoreSemaphoreSlim\\Program.cs",
               "RelativeDocumentMoniker": "Lesson6MutexSemaphoreSemaphoreSlim\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson6MutexSemaphoreSemaphoreSlim\\Lesson6MutexSemaphoreSemaphoreSlim\\Program.cs",
               "RelativeToolTip": "Lesson6MutexSemaphoreSemaphoreSlim\\Program.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAgwH0AAAAXAAAA",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwO4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T12:50:15.254Z",
+              "WhenOpened": "2024-09-29T09:39:34.626Z",
               "EditorCaption": ""
             }
           ]

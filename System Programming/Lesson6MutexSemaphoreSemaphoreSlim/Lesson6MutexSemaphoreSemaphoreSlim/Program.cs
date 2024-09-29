@@ -1,4 +1,4 @@
-﻿using ForFarhadLibrary;
+﻿using System.ComponentModel.Design;
 
 internal class Program
 {
@@ -101,31 +101,151 @@ internal class Program
     //}
 
 
+    //private static void Main(string[] args)
+    //{
+    //    var mutex = new Mutex(false, "AzDanish");
+    //    try
+    //    {
+    //        if (mutex.WaitOne(1))
+    //        {
+    //            Console.WriteLine("Process is running");
+    //            Console.ReadKey();
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine("Another process is running... go away");
+    //            Environment.Exit(0);
+    //        }
+    //    }
+    //    finally 
+    //    {
+    //        mutex.ReleaseMutex();
+    //    }
+
+
+    //}
+
+    #endregion
+
+    #region Semaphore (Internal Thread)
+
+    //private static void SomeMethod(object? state)
+    //{
+    //    if (state is Semaphore semaphore)
+    //    {
+    //        var st = false;
+    //        while (!st)
+    //        {
+    //            if (semaphore.WaitOne(1000))
+    //            {
+    //                try
+    //                {
+    //                    Console.WriteLine($"{Thread.CurrentThread.ManagedThreadId} got the key");
+    //                    Thread.Sleep(2000);
+    //                }
+    //                finally
+    //                {
+    //                    st = true;
+    //                    Console.WriteLine($"{Thread.CurrentThread.ManagedThreadId} returned the key");
+    //                    semaphore.Release();
+    //                }
+    //            }
+    //            else
+    //            {
+    //                Console.WriteLine($"Mister Thread {Thread.CurrentThread.ManagedThreadId}, we dont have enough key. Please wait...");
+    //            }
+    //        }
+    //    }
+    //}
+
+    //private static void Main(string[] args)
+    //{
+    //    var semaphore = new Semaphore(5, 5);
+    //    for (int i = 0; i< 10; i++)
+    //    {
+    //        ThreadPool.QueueUserWorkItem(SomeMethod, semaphore);
+    //    }
+
+    //    Console.ReadKey();
+    //}
+
+
+
+
+
+    #endregion
+
+    #region Semaphore (External Thread)
+
+    //private static void SomeMethod(object? state)
+    //{
+    //    if (state is Semaphore semaphore)
+    //    {
+    //        var st = false;
+    //        while (!st)
+    //        {
+    //            if (semaphore.WaitOne(1000))
+    //            {
+    //                try
+    //                {
+    //                    Console.WriteLine($"{Thread.CurrentThread.ManagedThreadId} got the key");
+    //                    Thread.Sleep(2000);
+    //                }
+    //                finally
+    //                {
+    //                    st = true;
+    //                    Console.WriteLine($"{Thread.CurrentThread.ManagedThreadId} returned the key");
+    //                    semaphore.Release();
+    //                }
+    //            }
+    //            else
+    //            {
+    //                Console.WriteLine($"Mister Thread {Thread.CurrentThread.ManagedThreadId}, we dont have enough key. Please wait...");
+    //            }
+    //        }
+    //    }
+    //}
+
+    //private static void Main(string[] args)
+    //{
+    //    Console.ReadKey();
+
+    //    var semaphore = new Semaphore(3, 3, "BabatSemaphore");
+    //    for (int i = 0; i < 10; i++)
+    //    {
+    //        ThreadPool.QueueUserWorkItem(SomeMethod, semaphore);
+    //    }
+
+    //    Console.ReadKey();
+    //}
+
+    #endregion
+
+    #region SemaphoreSlim
+
     private static void Main(string[] args)
     {
-        var mutex = new Mutex(false, "AzDanish");
-        try
+        var semaphoreSlim = new SemaphoreSlim(3);
+        for (int i = 0; i < 10; i++)
         {
-            if (mutex.WaitOne(1))
+            var name = $"Thread{i}";
+            var second = TimeSpan.FromSeconds(2 + 2 * i);
+            new Thread(() =>
             {
-                Console.WriteLine("Process is running");
-                Console.ReadKey();
-            }
-            else
-            {
-                Console.WriteLine("Another process is running... go away");
-                Environment.Exit(0);
-            }
+                Console.WriteLine($"{name} waits for access");
+
+                semaphoreSlim.Wait(second);
+
+                Console.WriteLine($"{name} is working");
+                Thread.Sleep(second);
+                Console.WriteLine($"{name} completed");
+
+                semaphoreSlim.Release();
+
+            }).Start();
+
+
         }
-        finally 
-        {
-            mutex.ReleaseMutex();
-        }
-
-        Product product = new();
-        product.Id = 2;
-
-
 
     }
 
