@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5513CCDA-3D81-43E9-BC06-B8D9993266F8}|AsyncAwait\\AsyncAwait.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson8asyncawaitautoresetevent\\asyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5513CCDA-3D81-43E9-BC06-B8D9993266F8}|AsyncAwait\\AsyncAwait.csproj|solutionrelative:asyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson8asyncawaitautoresetevent\\paralelprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|solutionrelative:paralelprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson8asyncawaitautoresetevent\\paralelprogramming\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|solutionrelative:paralelprogramming\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\system programming\\lesson8asyncawaitautoresetevent\\paralelprogramming\\fakers\\initalizestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA246EF-4F0E-4CDD-88D3-64D0BE084F5B}|ParalelProgramming\\ParalelProgramming.csproj|solutionrelative:paralelprogramming\\fakers\\initalizestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\AsyncAwait\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncAwait\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\AsyncAwait\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AsyncAwait\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowFAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:49:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "ParalelProgramming\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Program.cs",
+              "RelativeToolTip": "ParalelProgramming\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:42:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ParalelProgramming\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Models\\Student.cs",
+              "RelativeToolTip": "ParalelProgramming\\Models\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:37:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitalizeStudents.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Fakers\\InitalizeStudents.cs",
+              "RelativeDocumentMoniker": "ParalelProgramming\\Fakers\\InitalizeStudents.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\System Programming\\Lesson8AsyncAwaitAutoResetEvent\\ParalelProgramming\\Fakers\\InitalizeStudents.cs",
+              "RelativeToolTip": "ParalelProgramming\\Fakers\\InitalizeStudents.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:36:21.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

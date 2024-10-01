@@ -227,3 +227,17 @@ using static System.Threading.Thread;
 //_ = Task.Run(func);
 
 //Console.ReadKey();
+
+//  Thread.Sleep(2000); => await Task.Delay(2000);
+
+//Task t = new( () => { Thread.Sleep(2000); });
+//Task t1 = new(() => { Thread.Sleep(500000); });
+
+//t.Start();
+//t1.Start();
+
+//await Task.WhenAny(t, t1);
+
+
+//Console.WriteLine("asdkjhasjdk");
+//Console.ReadKey();
