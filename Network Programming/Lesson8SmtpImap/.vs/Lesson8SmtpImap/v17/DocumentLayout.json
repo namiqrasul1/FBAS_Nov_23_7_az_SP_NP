@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson8SmtpImap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB979F2E-9C57-4E88-9A0F-AD0E0B788670}|Lesson8SmtpImap\\Lesson8SmtpImap.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\network programming\\lesson8smtpimap\\lesson8smtpimap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB979F2E-9C57-4E88-9A0F-AD0E0B788670}|Lesson8SmtpImap\\Lesson8SmtpImap.csproj|solutionrelative:lesson8smtpimap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson8SmtpImap\\Lesson8SmtpImap\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson8SmtpImap\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson8SmtpImap\\Lesson8SmtpImap\\Program.cs",
+              "RelativeToolTip": "Lesson8SmtpImap\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:07.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

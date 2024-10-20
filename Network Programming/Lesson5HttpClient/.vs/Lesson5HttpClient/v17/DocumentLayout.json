@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{458B587F-E0BB-4663-903D-DCFEB0FB4E73}|Lesson5HttpClient\\Lesson5HttpClient.csproj|solutionrelative:lesson5httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{458B587F-E0BB-4663-903D-DCFEB0FB4E73}|Lesson5HttpClient\\Lesson5HttpClient.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az_sp_np\\network programming\\lesson5httpclient\\lesson5httpclient\\views\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{458B587F-E0BB-4663-903D-DCFEB0FB4E73}|Lesson5HttpClient\\Lesson5HttpClient.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson5HttpClient\\lesson5httpclient\\views\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{458B587F-E0BB-4663-903D-DCFEB0FB4E73}|Lesson5HttpClient\\Lesson5HttpClient.csproj|solutionrelative:lesson5httpclient\\views\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Lesson5HttpClient\\Views\\Error.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-17T11:40:05.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:40:05.604Z"
             },
             {
               "$type": "Document",
@@ -39,9 +38,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson5HttpClient\\Lesson5HttpClient\\Program.cs",
               "RelativeDocumentMoniker": "Lesson5HttpClient\\Program.cs",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson5HttpClient\\Lesson5HttpClient\\Program.cs",
-              "RelativeToolTip": "Lesson5HttpClient\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az_SP_NP\\Network Programming\\Lesson5HttpClient\\Lesson5HttpClient\\Program.cs*",
+              "RelativeToolTip": "Lesson5HttpClient\\Program.cs*",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T13:16:49.799Z",
               "EditorCaption": ""

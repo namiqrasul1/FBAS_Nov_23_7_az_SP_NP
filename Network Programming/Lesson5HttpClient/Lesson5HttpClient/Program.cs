@@ -33,6 +33,10 @@ class WebHost
         Console.WriteLine(context.Request.HttpMethod);
         Console.WriteLine(context.Request.QueryString);
 
+        // users // HttpMethod == Get
+        // users  HttpMethod == POST
+        // users  HttpMethod == Delete
+
 
         var path = string.Empty;
         if (!string.IsNullOrWhiteSpace(str) && str.EndsWith(".jpg"))
